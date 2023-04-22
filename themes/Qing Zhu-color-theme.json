@@ -43,7 +43,7 @@
 		"terminal.ansiBrightBlack": "#959595",
 		"terminal.ansiRed": "#de9487",
 		"terminal.ansiBrightRed": "#de9487",
-		"terminal.ansiGreen": "#bdd9a3",
+		"terminal.ansiGreen": "#a7cc85",
 		"terminal.ansiBrightGreen": "#D7E3CD",
 		"terminal.ansiYellow": "#E1E0C8",
 		"terminal.ansiBrightYellow": "#E1E0C8",
@@ -135,11 +135,11 @@
 			"fontStyle": ""
 		},
 		"string": {
-			"foreground": "#bdd9a3",
+			"foreground": "#a7cc85",
 			"fontStyle": ""
 		},
 		"characterLiteral": {
-			"foreground": "#bdd9a3",
+			"foreground": "#a7cc85",
 			"fontStyle": ""
 		},
 		"property": {
@@ -367,7 +367,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#bdd9a3",
+				"foreground": "#a7cc85",
 				"fontStyle": ""
 			}
 		},
@@ -556,7 +556,7 @@
 		{
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#bdd9a3",
+				"foreground": "#a7cc85",
 				"fontStyle": ""
 			}
 		},
@@ -598,7 +598,7 @@
 		{
 			"scope": "magit.entity",
 			"settings": {
-				"foreground": "#bdd9a3",
+				"foreground": "#a7cc85",
 				"fontStyle": ""
 			}
 		},
