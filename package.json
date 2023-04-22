@@ -1,0 +1,22 @@
+{
+  "name": "qing-zhu",
+  "displayName": "Qing Zhu",
+  "description": "VS Code theme",
+  "version": "1.0.0",
+  "publisher": "QingZhu",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Qing Zhu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Qing Zhu-color-theme.json"
+      }
+    ]
+  }
+}
