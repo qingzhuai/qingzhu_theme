@@ -172,7 +172,7 @@
 		},
 		"comment": {
 			"foreground": "#8b949e",
-			"italic": true
+			"italic": false
 		},
 		"comment.documentation": {
 			"foreground": "#8b949e",
@@ -493,28 +493,28 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#EEEEEE",
+				"foreground": "#8b949e",
 				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "comment.line.documentation",
 			"settings": {
-				"foreground": "#EEEEEE",
+				"foreground": "#8b949e",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "comment.block.documentation",
 			"settings": {
-				"foreground": "#EEEEEE",
+				"foreground": "#8b949e",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "comment.block.javadoc",
 			"settings": {
-				"foreground": "#EEEEEE",
+				"foreground": "#8b949e",
 				"fontStyle": ""
 			}
 		},
