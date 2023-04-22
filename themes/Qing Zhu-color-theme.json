@@ -79,31 +79,31 @@
 			"fontStyle": ""
 		},
 		"type": {
-			"foreground": "#cccbb6",
+			"foreground": "#d2a8ff",
 			"fontStyle": ""
 		},
 		"class": {
-			"foreground": "#cccbb6",
+			"foreground": "#d2a8ff",
 			"fontStyle": ""
 		},
 		"struct": {
-			"foreground": "#cccbb6",
+			"foreground": "#d2a8ff",
 			"fontStyle": ""
 		},
 		"enum": {
-			"foreground": "#cccbb6",
+			"foreground": "#d2a8ff",
 			"fontStyle": ""
 		},
 		"union": {
-			"foreground": "#cccbb6",
+			"foreground": "#d2a8ff",
 			"fontStyle": ""
 		},
 		"typeAlias": {
-			"foreground": "#cccbb6",
+			"foreground": "#d2a8ff",
 			"fontStyle": ""
 		},
 		"builtinType": {
-			"foreground": "#cccbb6",
+			"foreground": "#d2a8ff",
 			"fontStyle": ""
 		},
 		"interface": {
@@ -190,11 +190,11 @@
 			"fontStyle": ""
 		},
 		"magit-ref-name": {
-			"foreground": "#cccbb6",
+			"foreground": "#d2a8ff",
 			"fontStyle": ""
 		},
 		"magit-remote-ref-name": {
-			"foreground": "#cccbb6",
+			"foreground": "#d2a8ff",
 			"fontStyle": ""
 		},
 		"magit-tag-name": {
@@ -220,7 +220,7 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#b8cbd9",
+				"foreground": "#FF7B72",
 				"fontStyle": ""
 			}
 		},
@@ -262,77 +262,77 @@
 		{
 			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#cccbb6",
+				"foreground": "#d2a8ff",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "keyword.type",
 			"settings": {
-				"foreground": "#cccbb6",
+				"foreground": "#d2a8ff",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage.type.cs",
 			"settings": {
-				"foreground": "#cccbb6",
+				"foreground": "#d2a8ff",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage.type.java",
 			"settings": {
-				"foreground": "#cccbb6",
+				"foreground": "#d2a8ff",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage.type.boolean.go",
 			"settings": {
-				"foreground": "#cccbb6",
+				"foreground": "#d2a8ff",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage.type.byte.go",
 			"settings": {
-				"foreground": "#cccbb6",
+				"foreground": "#d2a8ff",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage.type.error.go",
 			"settings": {
-				"foreground": "#cccbb6",
+				"foreground": "#d2a8ff",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage.type.numeric.go",
 			"settings": {
-				"foreground": "#cccbb6",
+				"foreground": "#d2a8ff",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage.type.rune.go",
 			"settings": {
-				"foreground": "#cccbb6",
+				"foreground": "#d2a8ff",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage.type.string.go",
 			"settings": {
-				"foreground": "#cccbb6",
+				"foreground": "#d2a8ff",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage.type.uintptr.go",
 			"settings": {
-				"foreground": "#cccbb6",
+				"foreground": "#d2a8ff",
 				"fontStyle": ""
 			}
 		},
@@ -618,13 +618,6 @@
 		},
 		{
 			"scope": "punctuation.brackets.attribute.rust",
-			"settings": {
-				"foreground": "#68B5D9",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": "punctuation.brackets.round.rust",
 			"settings": {
 				"foreground": "#68B5D9",
 				"fontStyle": ""
