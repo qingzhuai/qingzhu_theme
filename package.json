@@ -4,6 +4,10 @@
   "description": "VS Code theme",
   "version": "1.0.0",
   "publisher": "QingZhu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qingzhuai/qingzhu_theme"
+  },
   "engines": {
     "vscode": "^1.77.0"
   },
